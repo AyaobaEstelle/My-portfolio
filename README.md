@@ -1,11 +1,11 @@
 # My-portfolio 
-All you need to knwo about me 
+Meet Ayaoba
 
-#Out-Put link
+# Out-Put links
 
-
-#Netlify
+# Netlify
 https://stately-florentine-21d6aa.netlify.app
 
-#GitHub Pages
+# GitHub Pages
+ https://ayaobaestelle.github.io/My-portfolio/
 
